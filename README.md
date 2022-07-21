@@ -1,2 +1,4 @@
-# template-python
-Python template repo
+# Pre-Pull docker images
+
+
+Pre-pull a list of docker images from a config list
