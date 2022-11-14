@@ -1,2 +1,4 @@
 APP:
   DEBUG: True
+IMAGES:
+  - 
